@@ -1,4 +1,4 @@
-# regress-o-e-classifica-o
+# Regressão e Classificação
 
 O programa Python que foi criado acima é um exemplo de análise de dados e modelagem preditiva utilizando uma base de dados em formato CSV. Aqui está um resumo das principais etapas e funcionalidades do programa:
 
